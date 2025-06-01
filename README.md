@@ -30,7 +30,7 @@ This dashboard simulates how a retail company can:
 ---
 
 ## 📷 Screenshots
-![Dashboard Preview](.png)  
+![Dashboard Preview](Superstore Sales Dashboard.png)  
 
 ---
 
